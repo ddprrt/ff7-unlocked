@@ -24,11 +24,14 @@
   <style>
     {{ css | cssmin | safe }}
   </style>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
 </head>
 
 <body class="grid">
 
+  <div class="content">
   {{ content | safe }}
+  </div>
 
   <footer>
     Made by <a href="https://twitter.com/ddprrt">@ddprrt</a>
