@@ -60,9 +60,9 @@ Vincent wurde von Hojo auf Eis gelegt und ist während der letzten 25 Jahre nich
 <dd><em>Noch nicht gefunden!</em> Eine Sammlung von Theorien in englischer Sprache. Äußerst empfehlenswert (ich hab auch was beigesteuert ^^)</dd>
 </dl>
 
-<figure>
+<figure class="quote" lang="en">
   <blockquote>
     <p>"Damn! Don't none of this make sense! I'm going, going, going, gone! And I'm leavin' the thinkin' to you!"</p>
   </blockquote>
-  <figcaption>Barret</figcaption>
+  <figcaption>&mdash; Barret</figcaption>
 </figure>
