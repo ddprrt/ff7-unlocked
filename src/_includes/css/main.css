@@ -45,3 +45,35 @@ nav a {
 footer {
   box-shadow: 0 0 20px  rgba(0, 0, 0, 0.5)
 }
+
+.img {
+  margin: 2rem -1rem;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+@media(min-width: 100ch) {
+
+  .img {
+    margin: 4rem -4rem;
+  }
+}
+
+.img img {
+  display: block;
+}
+
+.img figcaption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  text-align: right;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  width: 100%;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+}

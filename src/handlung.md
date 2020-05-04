@@ -28,7 +28,12 @@ Der Planet wird von den Cetra bewohnt, den nomadenhaft im Einklang mit der Natur
 
 Bald begegnet das Alien den zum Krater herbeigeeilten Cetra, die über außergewöhnliche magische Fähigkeiten verfügen. Es weiß, daß es nur mit Hilfe von Magie an den Lebensstrom gelangen kann, und versucht deshalb, das Vertrauen der Cetra zu erlangen. Das Alien ist von Natur aus ein Täuscher, Gestaltwandler und Manipulator; als sich herausstellt, daß die Cetra nicht Willens sind, dem Planeten Schaden zuzufügen, übernimmt es direkt die Kontrolle über ihre Gedanken und zeigt ihnen ihre "toten Mütter und ... toten Brüder", "Geister aus ihrer Vergangenheit".
 
-[Jenova im Reaktor von Nibelheim]
+<figure class="img">
+  <img loading="lazy" src="/img/jenova.jpg" alt="Jenova">
+  <figcaption>
+    Jenova
+  </figcaption>
+</figure>
 
 Kurz bevor es seinen Plan verwirklichen kann, lehnen sich einige Angehörige des alten Volkes gegen die Außerirdische (sie zeigt sich den Cetra in Form einer Frau) auf und besiegen sie. Ihr Körper wird in der Erde des nördlichen Kontinents versiegelt, die zerstörerische "Schwarze Materia", die sie mit sich führte, an einem geheimen Ort versteckt.
 
@@ -44,11 +49,17 @@ Im Auftrag von Shinra besuchen die Wissenschaftler Professor Gast und die schön
 
 Erst kurz zuvor hatten Shinra-Wissenschaftler auf dem nördlichen Kontinent etwas entdeckt, was sie für die gut erhaltene Leiche einer Cetra hielten. In Wirklichkeit handelt es sich natürlich um unser Alien, von Professor Gast nun auf den Namen Jenova getauft. Beflügelt von dieser Entdeckung entwickelt Hojo während des Reaktorbaus den Plan, aus den Zellen der vermeintlichen Cetra einen neuen Angehörigen des alten Volkes zu klonen.
 
-Um die Cetra hat sich im Laufe der Jahrhunderte die Legende um das "Verheißene Land" gebildet, in dem diese gelebt haben sollen, und das ausschließlich ihnen zugänglich ist. Shinra vermutet, daß dies ein Gebiet sein muß, das reich an Mako ist- willkommene Beute, die man sich mit den Fähigkeiten eines künstlich erschaffenen Cetra aneignen könnte.
+Um die Cetra hat sich im Laufe der Jahrhunderte die Legende um das "Verheißene Land" gebildet, in dem diese gelebt haben sollen, und das ausschließlich ihnen zugänglich ist. Shinra vermutet, daß dies ein Gebiet sein muß, das reich an Mako ist &mdash; willkommene Beute, die man sich mit den Fähigkeiten eines künstlich erschaffenen Cetra aneignen könnte.
 
-[Reines Mako]
 
-Hojo schlägt vor, daß Lukrezia ein Kind austragen soll- diesem sollen noch vor der Geburt Jenova-Zellen injiziert werden. Als sich der Turk Vincent, der Lukrezia insgeheim liebt, dem widersetzt, erschießt Hojo ihn und benutzt seinen Körper für eines seiner perversen Genexperimente, um ihn anschließend im Keller der Shinra-Villa, wo er ein geheimes Labor unterhält, auf Eis zu legen und in Tiefschlaf zu versetzen. Lukrezia wird bald von Hojo schwanger, und zwar durchaus freiwillig- als Vollblut-Wissenschaftlerin möchte sie sich das Jenova-Experiment nicht entgehen lassen.
+<figure class="img">
+  <img loading="lazy" src="/img/lifestream.jpg" alt="Der Lebensstrom">
+  <figcaption>
+    Der Lebensstrom
+  </figcaption>
+</figure>
+
+Hojo schlägt vor, daß Lukrezia ein Kind austragen soll &mdash; diesem sollen noch vor der Geburt Jenova-Zellen injiziert werden. Als sich der Turk Vincent, der Lukrezia insgeheim liebt, dem widersetzt, erschießt Hojo ihn und benutzt seinen Körper für eines seiner perversen Genexperimente, um ihn anschließend im Keller der Shinra-Villa, wo er ein geheimes Labor unterhält, auf Eis zu legen und in Tiefschlaf zu versetzen. Lukrezia wird bald von Hojo schwanger, und zwar durchaus freiwillig &mdash; als Vollblut-Wissenschaftlerin möchte sie sich das Jenova-Experiment nicht entgehen lassen.
 
 Das Kind, das daraufhin zur Welt kommt, nennt Hojo Sephiroth. Klein-Sephi werden noch vor seiner Geburt Zellen Jenovas eingespritzt. Seine "Cetra-Mutter" Jenova wird für spätere Experimente im Kern des Reaktors eingemauert, während Lukrezia die Folgen der Geburt nicht überlebt. Sephiroth zeigt zwar keine Anzeichen von besonderen Fähigkeiten, die mit dem "Verheißenen Land" verbunden sein könnten, ist aber übermenschlich stark und intelligent. Er wird das erste und hervorragendste Mitglied von SOLDIER, der neuen Shinra-Eliteeinheit.
 
@@ -58,19 +69,31 @@ SOLDIER bekommen angeblich Mako eingeflößt, was sie stärker als Normalsterbli
 
 Professor Gast besucht im Rahmen seiner Forschungsarbeiten Icicle Inn, ein Dorf auf dem nördlichen Kontinent. Dort begegnet er einer Frau namens Ifalna, die offenbar die letzte Überlebende der Cetra ist. Er fragt sie über die Vergangenheit ihres Volkes aus und erfährt die Wahrheit über Jenova. Die beiden verlieben sich in einander und bekommen eine Tochter, die Gast auf den Namen Aeris tauft.
 
-Sehr schnell taucht Hojo in Begleitung von Shinra-Soldaten auf, um Ifalna und Aeris für seine Experimente zu reklamieren. Gast wehrt sich und stirbt- seine Frau und Tochter werden nach Midgar in Hojos Forschungslabor gebracht.
+Sehr schnell taucht Hojo in Begleitung von Shinra-Soldaten auf, um Ifalna und Aeris für seine Experimente zu reklamieren. Gast wehrt sich und stirbt &mdash; seine Frau und Tochter werden nach Midgar in Hojos Forschungslabor gebracht.
 
 ### 15 Jahre vor Beginn unserer Geschichte
 
-Zwischen Shinra, Inc. und dem rückständigen, religiös geprägten Stadtstaat Wutai bricht Krieg aus. Unterdessen gelingt es Ifalna und Aeris, aus Hojos Labor zu fliehen. Ifalna stirbt auf dem Bahnsteig von Midgars Sektor 7- entweder wurde sie bei der Flucht verwundet, oder die Experimente haben sie zu sehr ausgezehrt. Elmyra Gainsborough, eine Passantin, die ifalna auf dem Bahnhof findet, nimmt das Waisenmädchen auf, weil ihr Mann im Krieg gegen Wutai umgekommen ist und sie sich einsam fühlt. Aeris lebt sich bald in Midgar ein.
+Zwischen Shinra, Inc. und dem rückständigen, religiös geprägten Stadtstaat Wutai bricht Krieg aus. Unterdessen gelingt es Ifalna und Aeris, aus Hojos Labor zu fliehen. Ifalna stirbt auf dem Bahnsteig von Midgars Sektor 7 &mdash; entweder wurde sie bei der Flucht verwundet, oder die Experimente haben sie zu sehr ausgezehrt. Elmyra Gainsborough, eine Passantin, die Ifalna auf dem Bahnhof findet, nimmt das Waisenmädchen auf, weil ihr Mann im Krieg gegen Wutai umgekommen ist und sie sich einsam fühlt. Aeris lebt sich bald in Midgar ein.
 
-[Tifas Haus]
+<figure class="img">
+  <img loading="lazy" src="/img/ifalna.jpg" alt="Elmyra findet Ifalna und Aerith">
+  <figcaption>
+    Elmyra findet Ifalna und Aerith
+  </figcaption>
+</figure>
 
 ### 7 Jahre vor Beginn unserer Geschichte
 
-Nibelheim: Cloud Strife, vierzehn Jahre alt und ein Außenseiter unter der Dorfjugend, nimmt all seinen Mut zusammen und stattet der beliebten Tifa Lockheart (13) einen Besuch ab. Ungünstigerweise ist Tifas Mutter nur wenige Stunden zuvor gestorben. In ihrer Trauer und ihrem kindlichem Unwissen beschließt Tifa, den Mt. Nibel zu besteigen, den angeblich noch nie jemand lebendig überquert hat- sie glaubt, die Toten (und damit auch ihre Mutter) befänden sich hinter dem Berg.
+Nibelheim: Cloud Strife, vierzehn Jahre alt und ein Außenseiter unter der Dorfjugend, nimmt all seinen Mut zusammen und stattet der beliebten Tifa Lockheart (13) einen Besuch ab. Ungünstigerweise ist Tifas Mutter nur wenige Stunden zuvor gestorben. In ihrer Trauer und ihrem kindlichem Unwissen beschließt Tifa, den Mt. Nibel zu besteigen, den angeblich noch nie jemand lebendig überquert hat &mdash; sie glaubt, die Toten (und damit auch ihre Mutter) befänden sich hinter dem Berg.
 
-Als einziger unter Tifas Bekannten wagt Cloud es, ihr zu folgen. Die beiden stürzen von einem Felsvorsprung- während Cloud mit einem Kratzer davonkommt, fällt Tifa für sieben Tage ins Koma. Cloud macht sich schwere Vorwürfe und verfällt in Selbsthaß. Er wird zunehmend aggressiv gegenüber anderen Personen. Zu diesem Zeitpunkt hört er zum ersten Mal von Sephiroth, dem legendären SOLDIER.
+<figure class="img">
+  <img loading="lazy" src="/img/tifa-cloud.jpg" alt="Tifa und Cloud">
+  <figcaption>
+    Tifa und Cloud
+  </figcaption>
+</figure>
+
+Als einziger unter Tifas Bekannten wagt Cloud es, ihr zu folgen. Die beiden stürzen von einem Felsvorsprung &mdash; während Cloud mit einem Kratzer davonkommt, fällt Tifa für sieben Tage ins Koma. Cloud macht sich schwere Vorwürfe und verfällt in Selbsthaß. Er wird zunehmend aggressiv gegenüber anderen Personen. Zu diesem Zeitpunkt hört er zum ersten Mal von Sephiroth, dem legendären SOLDIER.
 
 Er glaubt, Tifas Vergebung und Anerkennung erlangen zu können, wenn es ihm gelänge, so stark wie Sephiroth zu werden. Anstatt seine Probleme vernünftigerweise mit dem Dr.Sommer-Team zu teilen, macht er seinen Plan wahr: In der Nacht am Wasserturm teilt er Tifa seinen Entschluß mit, nach Midgar zu gehen und SOLDIER zu werden und gibt ihr das Versprechen, sie zu retten, sollte sie je in Not gelangen.
 
@@ -84,7 +107,12 @@ Shinra hat den Krieg gegen Wutai gewonnen und ist zum unumstrittenen Herrscher d
 
 Alles läuft bestens, bis es im Reaktor von Nibelheim einen 'Störfall' gibt: mehr und mehr Monster tauchen in der Umgebung des Städtchens auf. Shinra schickt sofort einen Untersuchungstrupp, bestehend aus den SOLDIERs Sephiroth und Zack sowie zwei untergeordneten Soldaten- einer von ihnen ist Cloud. Letzterer schämt sich, weil er es nicht geschafft hat, SOLDIER erster Klasse zu werden. Er wagt es nicht, Tifa unter die Augen zu treten und behält deshalb während seines ganzen Aufenthaltes in Nibelheim seinen Helm auf.
 
-[Der wahre Cloud]
+<figure class="img">
+  <img loading="lazy" src="/img/true-cloud.jpg" alt="Der wahre Cloud">
+  <figcaption>
+    Der wahre Cloud
+  </figcaption>
+</figure>
 
 Im Reaktor findet Sephiroth Beweise für Hojos Gen-Experimente. Er entdeckt außerdem, daß das seltsame Wesen im Kern des Reaktors 'Jenova' heißt- genau wie seine Mutter, die, so erzählten es ihm seine Ausbilder, kurz nach seiner Geburt gestorben sein soll. Sephi zählt zwei und zwei zusammen und erkennt, daß er ein künstlich geschaffenes Monster ist. In den folgenden Tagen schließt er sich geheimem Labor Hojos im Keller der Shinra-Villa ein, wo er weitere Details in Erfahrung bringt.
 
@@ -92,7 +120,13 @@ Sephiroth erträgt die Wahrheit nicht und wird wahnsinnig. Er hält sich nunmehr
 
 In einem Amoklauf brennt er Nibelheim nieder, erledigt alle, die sich ihm in den Weg stellen, darunter auch Tifas Vater, und dringt in den Reaktor ein, um seine "Mutter" (die er, den falschen Shinra-Annahmen folgend, für eine Cetra hält) zu befreien. Tifa stellt sich ihm in den Weg und wird schwer verwundet- das gleiche geschieht mit Zack. Cloud jedoch folgt Sephiroth, rettet Tifa und stellt den Wahnsinnigen.
 
-[Sephiroth & seine Mutter]
+
+<figure class="img">
+  <img loading="lazy" src="/img/sephiroth-jenova.jpg" alt="Sephiroth und seine Mutter">
+  <figcaption>
+    Sephiroth und seine Mutter
+  </figcaption>
+</figure>
 
 In einem Akt der Verzweiflung gelingt es Cloud überraschenderweise, den eigentlich viel stärkeren Sephiroth zu besiegen und mitsamt Jenovas Kopf in die Reaktorflüssigkeit zu werfen. Er selbst erleidet dabei aber eine schwere Verletzung und verliert das Bewußtsein.
 
@@ -106,7 +140,13 @@ Der Planet leidet unter der Ausbeutung seiner wertvollsten Ressource, der Mako-E
 
 Unter der Führung des Haudegens Barret, der mit Shinra eine Rechnung zu begleichen hat, formiert sich die Rebellentruppe AVALANCHE und erklärt dem Konzern den Krieg. Primäres Ziel der Ökoterroristen ist die Sprengung der Mako-Reaktoren, die ihrer Meinung nach für den schleichenden Tod des Planeten verantwortlich sind. Tifa ist unterdessen nach Midgar gezogen und hat in den Slums eine gutgehende Bar eröffnet. Seit dem Tod ihres Vaters hat sie einen tiefen Haß auf alles, was mit Shinra und Mako zu tun hat, und so überrascht es nicht, daß sie bald Kontakt zu AVALANCHE aufnimmt und ihre Bar das Hauptquartier der Truppe wird.
 
-[Midgar: Der Shinra-Tower]
+
+<figure class="img">
+  <img loading="lazy" src="/img/shinra-tower.jpg" alt="Der Shinra Tower">
+  <figcaption>
+    Der Shinra Tower trohnt über Midgar
+  </figcaption>
+</figure>
 
 Nach fünf lustigen Jahren im Forschungslabor gelingt Zack und Cloud schließlich die Flucht aus Nibelheim. Cloud ist völlig am Ende und muß von seinem Freund getragen werden. Die beiden gelangen per Anhalter nach Midgar; auf der Fahrt schmiedet Zack Pläne über eine gemeinsame Zukunft als Söldner. Als sie schließlich in der Hauptstadt ankommen, werden sie von Shinra-Soldaten gestellt.
 
@@ -117,6 +157,13 @@ Tifa weiß nicht, was sie von seinen Erzählungen halten soll, widerspricht ihm 
 ## Unsere Geschichte
 
 Der Rest des Plots dürfte euch bekannt sein, wenn ihr euch durch das Spiel gekämpft habt. Cloud arbeitet für AVALANCHE und erweist sich als fähiger Kämpfer- weniger, weil er wirklich einer ist, sondern vielmehr, weil er glaubt, SOLDIER gewesen zu sein. Durch Zufall oder eine Fügung des Schicksals begegnet er Aeris, die sich zu ihm hingezogen fühlt- auch, weil er sie an Zack erinnert, von dem sie seit fünf Jahren nichts gehört hat.
+
+<figure class="img">
+  <img loading="lazy" src="/img/shinra.jpg" alt="Der Mako Reaktor">
+  <figcaption>
+    Der Mako Reaktor
+  </figcaption>
+</figure>
 
 Schließlich taucht Sephiroth wieder auf, oder vielmehr einWesen, das wie Sephiroth aussieht. Es ist die physische Manifestation von Jenovas Willen in menschlicher Form. Sephiroths sterblicher Körper wurde vom Lebensstrom in den Nordkrater gespült, wo er in einem Mako-Block festsitzt. Seine Projektion jedoch, die durch Wände gehen und fliegen kann und über Jenovas Täuschungs- und Manipulationskräfte verfügt, tötet Präsident Shinra.
 
