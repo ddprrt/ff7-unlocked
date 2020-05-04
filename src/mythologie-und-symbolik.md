@@ -9,15 +9,25 @@ Wie die meisten neueren Square-Spiele enthält Final Fantasy VII reichlich Zitat
 
 ## Hauptcharaktere
 
-[Clouds sechstes Limit Break]
-
 ### Cloud
+
+<figure class="img">
+  <img loading="lazy" src="/img/cloud.jpg" alt="Cloud Strife">
+  <figcaption>
+    Cloud Strife
+  </figcaption>
+</figure>
 
 Clouds Charakter spiegelt sich in seinem Namen wieder: "Cloud" ist engl. für "Wolke" und bezieht sich auf seine unklare Vergangenheit ("umwölkt", könnte man sagen, oder, auf Englisch: "his memory is clouded") und seine Unsicherheit über seine eigene Identität. Der Name legt außerdem eine Verbindung zu Aeris nahe (s.u.). "Strife" ist engl. für Kampf und bezieht sich einerseits auf Clouds aggressives Verhalten und seine Verschlossenheit, vor allem aber auf seinen inneren Kampf, der später im Duell mit Sephiroth seinen Ausgang findet.
 
-[Sephiroth im Reaktor]
-
 ### Sephiroth
+
+<figure class="img">
+  <img loading="lazy" src="/img/sephiroth.jpg" alt="Sephiroth">
+  <figcaption>
+    Sephiroth
+  </figcaption>
+</figure>
 
 Bei Sephiroth-samas Namen handelt sich um eine Anspielung auf die Kabbala, einer durch das Judentum überlieferten mystischen Lehre aus vorchristlicher Zeit, die es den Menschen ermöglichen soll, den "tiefsten Urgrund unseres Daseins" zu ermitteln und die "göttliche Kraft" in allen Dingen zu erkennen*.
 
@@ -25,17 +35,29 @@ Der 'Sefirot' ist in der Kabbala der Baum des Lebens. Gemeint ist nicht etwa ein
 
 Bezogen auf den Charakter Sephiroth zeigt der Name die grenzenlose Vermessenheit Hojos, der ihn getauft hat und dessen "wissenschaftlicher" Ehrgeiz vor nichts Halt macht. Ironischerweise entspricht Sephiroths/Jenovas Handeln in dieser Hinsicht genau dem seines Vaters: Er will allumfassende Macht und absolutes Wissen.. Er will "eins mit dem Planeten" und ein neuer Gott werden, wie Hojo verzückt feststellt: "Überschreite die Grenzen des Wissens!", ruft er ihm zu. Am Ende von Final Fantasy VII hat Sephiroth sein Ziel fast erreicht: Er wird zum One-Winged Angel mit gottähnlichen Kräften. Das Motiv des Engels mit einem Flügel wurde später von Square in Xenogears aufgegriffen. Hier symbolisieren die beiden Engel in der Kathedrale von Nisan das Streben nach Nächstenliebe und Mitmenschlichkeit. Die Menschen können nur gemeinsam Erfüllung im Leben finden; Sephiroth hat das nicht begriffen und muß deshalb scheitern.
 
-[Fanart]
-
 ### Tifa
+
+<figure class="img">
+  <img loading="lazy" src="/img/tifa.jpg" alt="Tifa Lockheart">
+  <figcaption>
+    Tifa Lockheart
+  </figcaption>
+</figure>
 
 Der Nachname Tifas, "Lockheart", verweist auf ihre Schüchternheit und ihren verschlossenen Charakter (engl. lock = "Schloß", heart = "Herz"). Bis zum Schluß ist sie nicht in der Lage, Cloud ihre Liebe einzugestehen. Man könnte auch annehmen, der Name verweise darauf , daß sie den Schlüssel zu Clouds Vergangenheit in ihrem Herzen aufbewahrt.
 
 Der Vorname "Tifa" ist eine weitere Anspielung auf die Kabbala. Der zentrale Aspekt des Sefirot heißt "Tiferet" und wird in bildlichen Darstellungen (z.B. auf Tarotkarten) durch ein Herz (wieder "heart") symbolisiert. Der "Tiferet"-Aspekt steht innerhalb des Sefirot für Schönheit (was auf Tifa zutrifft ^_^), Ausgeglichenheit und Liebe (trifft ebenfalls zu). Weiterhin wird Tiferet in der christlichen Kabbalainterpretation mit Opferbereitschaft und Treue identifiziert, auf religiöser Ebene mit "Kreuztragung". Auch das passt sehr gut zu Tifas Charakter; schließlich nimmt sie sich nach dem Nordkraterunfall des schwerkranken Cloud an und hilft ihm letztlich, sein wahres Ich zu finden.
 
-[Aeris betet für Holy]
 
 ### Aeris
+
+<figure class="img">
+  <img loading="lazy" src="/img/aerith.jpg" alt="Aerith Gainsborough">
+  <figcaption>
+    Aerith Gainsborough
+  </figcaption>
+</figure>
+
 
 Durch das gesamte Spiel auf Disc 1 hindurch tritt Aeris vor allem im Zusammenhang mit zwei Themenbereichen auf: Natur und Religion. Beide Bereiche sind in FF7 eng miteinander verwoben, siehe auch "Die Gaia-Theorie"; am deutlichsten wird das bei ihrer zweiten Begegnung mit Cloud, in der Kirche von Midgar, der einzigen Stelle in der Stadt, wo noch Blumen wachsen (abgesehen von Aeris' Haus): hier findet sich ein Blumenbeet direkt vor dem Altar. Zu Beginn des Spiels verkauft Aeris Blumen, später ist sie die beste Heilerin, aber die schwächste Kämpferin der Party. Sie stirbt betend beim Versuch, "Holy" (engl. "heilig") zu beschwören. Ihr stärkstes Limit Break ist der "Great Gospel", erneut ein religiöser Begriff.
 
@@ -51,7 +73,14 @@ Neben diesen sehr zentralen Charakteren gibt es noch einige weitere, deren Namen
 
 *Cait Sith*: Die Inspiration für diesen Namen stammt vermutlich aus dem Irischen, wo ein ähnlicher Name eine katzenartige Märchenfigur bezeichnet.
 
-[Ach ja?]
+
+<figure class="img">
+  <img loading="lazy" src="/img/cait.jpg" alt="Cait Sith">
+  <figcaption>
+    Ach ja...?
+  </figcaption>
+</figure>
+
 
 *Reeve*: Altenglisches Wort, das einen Beamten oder Verwalter in leitender Position bezeichnet. Die Verbindung zum FF7-Reeve liegt auf der Hand.
 
@@ -62,6 +91,13 @@ Neben diesen sehr zentralen Charakteren gibt es noch einige weitere, deren Namen
 *Gorky und Chekhov*: Diese beiden Bosse in Yuffies Pagode sind nach den berühmten russischen Schriftstellern Maxim Gorky und Anton P. Chekhov benannt.
 
 Der Name *Shin-Ra* bedeutet so viel wie "dunkler Gott". Das Wort bezeichnet in der asiatischen Mythologie vampirähnliche Wesen. Das lässt einige interessante Schlüsse zu: Shinra, Inc. "saugt" dem Planeten mit seinen Reaktoren schließlich "die Lebenskraft" aus. Exakt diese Formulierung wird im Spiel des Öfteren verwendet.
+
+<figure class="img">
+  <img loading="lazy" src="/img/pres-shinra.jpg" alt="Präsident Shinra">
+  <figcaption>
+    Präsident Shinra
+  </figcaption>
+</figure>
 
 *Jenova* klingt verdächtig nach "Jehova" oder Jahwe, dem hebräischen Namen Gottes; die Endsilben -nova stehen dabei für "neu"; Jenova ist also der "neue Gott", oder will es zumindest sein.
 
@@ -77,11 +113,25 @@ Passend dazu: *Scarlet* bezeichnet einen hellen Rotton. Scarlet trägt auch ein 
 
 *Reno* leitet sich vom lateinischen "Leno" ab (R und L sind im Japanischen monophon), was unter anderem Zuhälter bedeutet.
 
-[Cosmo Canyon]
+
+<figure class="img">
+  <img loading="lazy" src="/img/cosmo.jpg" alt="Cosmo Canyon">
+  <figcaption>
+    Cosmo Canyon Fanart
+  </figcaption>
+</figure>
 
 *Rude* ist englisch für "grob, unhöflich", womit Rudes Charakter auch ganz treffend beschrieben wäre.
 
 *Hojo* geht auf eine japanische Herrscherdynastie zurück, die das Land von 1199 bis 1333 regierte.
+
+<figure class="img">
+  <img loading="lazy" src="/img/hojo.jpg" alt="Hojo">
+  <figcaption>
+    Hojo
+  </figcaption>
+</figure>
+
 
 Der Name *Don Corneo* erinnert stark an Don Corleone aus den "Der Pate"-Filmen. Davon abgesehen haben die beiden Charaktere wenig Ähnlichkeit. "Corneo" bedeutet im Lateinischen "aus Horn gemacht", was im Englischen übrigens mit "horny" übersetzt wird. Zufall? ^_^ Passt jedenfall sehr gut...
 

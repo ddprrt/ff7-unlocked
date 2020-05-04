@@ -31,6 +31,15 @@ Aeris' Vater, Professor Gast, war "wie ein Vater" zu Sephiroth, also könnte jen
 
 Theorie 1: Er gehört einer extrem langlebigen Rasse an (zu Spielbeginn ist er 48 Jahre alt, was laut Bugenhagen 16 Menschenjahren entspricht). Er wäre auch unter Berücksichtigung dieses Umstandes seeehr alt.
 
+<figure class="img">
+  <img loading="lazy" src="/img/red.jpg" alt="Red XIII">
+  <figcaption>
+    Red XIII
+  </figcaption>
+</figure>
+
+
+
 Theorie 2: Das Video zeigt einen seiner Nachfahren. Das XIII-Tattoo könnte als eine Art kultisches Erkennungsmerkmal seines Stammes in die Geschichte eingegangen sein. Das hieße allerdings, daß noch Menschen auf dem Planeten leben müssen, um die Nachkommen Nanakis zu tätowieren. (Ja, diese Theorie wurde in den FFO-Foren ernsthaft und erbittert diskutiert ^^)
 
 ### Wenn der wahre Sephiroth im Nordkrater auf Eis liegt... Wer ist dann der Sephiroth, den man während des Spiels jagt?
