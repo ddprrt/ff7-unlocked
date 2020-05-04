@@ -108,7 +108,7 @@ Shinra hat den Krieg gegen Wutai gewonnen und ist zum unumstrittenen Herrscher d
 Alles läuft bestens, bis es im Reaktor von Nibelheim einen 'Störfall' gibt: mehr und mehr Monster tauchen in der Umgebung des Städtchens auf. Shinra schickt sofort einen Untersuchungstrupp, bestehend aus den SOLDIERs Sephiroth und Zack sowie zwei untergeordneten Soldaten- einer von ihnen ist Cloud. Letzterer schämt sich, weil er es nicht geschafft hat, SOLDIER erster Klasse zu werden. Er wagt es nicht, Tifa unter die Augen zu treten und behält deshalb während seines ganzen Aufenthaltes in Nibelheim seinen Helm auf.
 
 <figure class="img">
-  <img loading="lazy" src="/img/true-cloud.jpg" alt="Der wahre Cloud">
+  <img loading="lazy" src="/img/true-cloud-new.jpg" alt="Der wahre Cloud">
   <figcaption>
     Der wahre Cloud
   </figcaption>
@@ -130,7 +130,13 @@ In einem Amoklauf brennt er Nibelheim nieder, erledigt alle, die sich ihm in den
 
 In einem Akt der Verzweiflung gelingt es Cloud überraschenderweise, den eigentlich viel stärkeren Sephiroth zu besiegen und mitsamt Jenovas Kopf in die Reaktorflüssigkeit zu werfen. Er selbst erleidet dabei aber eine schwere Verletzung und verliert das Bewußtsein.
 
-[Sephiroth: "Unmöglich..."]
+
+<figure class="img">
+  <img loading="lazy" src="/img/seph-impossible.jpg" alt="Sephiroth der von Cloud getötet wird">
+  <figcaption>
+    "Unmöglich..."
+  </figcaption>
+</figure>
 
 Während Tifa von ihrem Kampfsportlehrer gerettet und nach Midgar gebracht wird, fallen Cloud und Zack dem anrückenden Hojo in die Hände, der von Sephiroths Geisteskrankheit gehört hatte und deshalb nach Nibelheim kam. Hojo scheint nicht allzu traurig über den Verlust seines Sohnes zu sein; er beschließt, sich einfach ein paar neue "Kinder" zu erzeugen und spritzt Cloud und Zack sowie den anderen Überlebenden des "Nibelheim-Zwischenfalls", die Shinra gerne aus dem Weg haben möchte, Mako und Jenova-Zellen aus dem Restkörper des Aliens, bevor dieses nach Midgar transportiert wird. Während Zack mit seiner starken Willenskraft die Experimente halbwegs übersteht, leidet der schwache Cloud bedeutend darunter und bekommt Bewußtseinsstörungen.
 
