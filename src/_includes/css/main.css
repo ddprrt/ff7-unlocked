@@ -1,10 +1,24 @@
+:root {
+  --logo-gradient: linear-gradient(to right, #edeff3, #c3c8d9, #809cc7, #4a7c75, #284b39, #171212);
+}
+
 body {
   margin: 0;
   font-size: 1.2rem;
   font-family: "Source Serif Pro", serif;
   color: #555;
   line-height: 1.7;
+  background-color: #fff;
 }
+
+/*
+<stop offset="0" stop-color="#edeff3"/>
+<stop offset=".115" stop-color="#c3c8d9"/>
+<stop offset=".27" stop-color="#809cc7"/>
+<stop offset=".601" stop-color="#4a7c75"/>
+<stop offset=".888" stop-color="#284b39"/>
+<stop offset="1" stop-color="#171212"/
+*/
 
 * {
   box-sizing: border-box;
@@ -43,13 +57,13 @@ nav a {
 }
 
 footer {
-  box-shadow: 0 0 20px  rgba(0, 0, 0, 0.5)
+  box-shadow: 0 0 20px  rgba(0, 0, 0, 0.4)
 }
 
 .img {
   margin: 2rem -1rem;
   position: relative;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 @media(min-width: 100ch) {
@@ -77,4 +91,56 @@ footer {
 
 img {
   max-width: 100%;
+}
+
+
+.quote {
+  position: relative;
+  border: 1px solid #eee;
+  padding: 3rem;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin: 4rem 2rem;
+}
+
+.quote blockquote {
+  font-style: italic;
+  line-height: 1.9;
+  position: relative;
+}
+
+.quote blockquote:before {
+  content: '"';
+  position: absolute;
+  font-size: 4rem;
+  left: -2.5rem;
+  top: -1.5rem;
+  color: #777;
+}
+
+.quote figcaption {
+  text-align: right;
+}
+
+.quote cite {
+  font-style: normal;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.headline {
+  font-style: italic;
+  text-align: center;
+  color: black;
+  margin-top: -4.5rem;
+  font-size: 4rem;
 }

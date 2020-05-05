@@ -71,7 +71,7 @@ Vincent wurde von Hojo auf Eis gelegt und ist während der letzten 25 Jahre nich
 
 <figure class="quote" lang="en">
   <blockquote>
-    <p>"Damn! Don't none of this make sense! I'm going, going, going, gone! And I'm leavin' the thinkin' to you!"</p>
+    <p>Damn! Don't none of this make sense! I'm going, going, going, gone! And I'm leavin' the thinkin' to you!</p>
   </blockquote>
   <figcaption>&mdash; Barret</figcaption>
 </figure>
