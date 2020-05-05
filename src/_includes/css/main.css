@@ -97,9 +97,22 @@ img {
 .quote {
   position: relative;
   border: 1px solid #eee;
-  padding: 3rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding: 1rem;
+  font-size: 1.1rem;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  margin: 4rem 2rem;
+}
+
+@media(min-width: 100ch) {
+
+  .quote {
+    padding: 3rem;
+    margin: 4rem 2rem;
+    font-size: 1.2rem;
+  }  
 }
 
 .quote blockquote {
