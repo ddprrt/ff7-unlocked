@@ -1,6 +1,7 @@
 ---
 title: Namenssymbolik und mythologische Anspielungen | Final Fantasy VII entschlüsselt
 layout: base.njk
+description: Analyse und Interpretation der Namen und mythologischen Anspielungen. Mit vielen Verweisen auf die Kabbala.
 ---
 
 # "Ich bin, was du siehst"

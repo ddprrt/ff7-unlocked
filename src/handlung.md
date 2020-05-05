@@ -1,6 +1,7 @@
 ---
 title: Zusammenfassung der Handlung | Final Fantasy VII entschlüsselt
 layout: base.njk
+description: Eine Zusammenfassung der gesamten Handlung von Final Fantasy VII, chronologisch aufgelistet.
 ---
 
 # Von Midgar bis ans Ende der Welt- Zusammenfassung des Plots

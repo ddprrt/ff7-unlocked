@@ -1,6 +1,7 @@
 ---
 title: Story FAQ und Links | Final Fantasy VII entschlüsselt
 layout: base.njk
+description: Fragen zur Story von Final Fantasy VII? Hier findet ihr eine Analyse.
 ---
 
 # Reunion
