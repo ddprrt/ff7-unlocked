@@ -45,17 +45,6 @@ footer {
   color: #eee;
 }
 
-nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
-
-nav a {
-  font-size: 1rem;
-  color: white;
-  font-weight: bold;
-}
-
 footer {
   box-shadow: 0 0 20px  rgba(0, 0, 0, 0.4)
 }
@@ -156,4 +145,34 @@ img {
   color: black;
   margin-top: -4.5rem;
   font-size: 4rem;
+}
+
+
+.nav a {
+  font-size: 1rem;
+  color: #ccc;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #fff;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -0.5rem;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.nav li {
+  margin: 0;
+  padding: 0.5rem;
+  list-style: none;
 }
